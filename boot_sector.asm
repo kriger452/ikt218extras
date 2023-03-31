@@ -1,3 +1,5 @@
+; Source: https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+
 ; Boot sector to enter 32-bit mode
 
 [org 0x7c00] ; Sets location counter
